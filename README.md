@@ -1,1 +1,1 @@
-# From Raw Data to Structural Semantics: Trade-offs among Distortion, Rate, and Inference Accuracy
+# Data for structural semantics using topological data analysis
